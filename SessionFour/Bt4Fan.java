@@ -21,6 +21,13 @@ public class Bt4Fan {
         this.color = "blue";
     }
 
+    public Bt4Fan() {
+        this.speed = 0;
+        this.on = false;
+        this.radius = 0;
+        this.color = "";
+    }
+
     // getter và setter
     public int getSpeed() {
         return speed;
@@ -62,4 +69,5 @@ public class Bt4Fan {
         } else {
             return "Fan color: " + color + ", radius: " + radius + " (fan is off)";
         }
-    }}
+    }}]
+    

@@ -21,19 +21,33 @@ public class MainTH {
 // }
 
 /* Student */
+// public static void main(String[] args) {
+//     Scanner scanner = new Scanner(System.in);
+
+//     System.out.print("Enter the studentId:");
+//     String studentId = scanner.nextLine();
+
+//     System.out.print("Enter the studentName:");
+//     String studentName = scanner.nextLine();
+
+//     System.out.print("Enter the studentSex:");
+//     String sex = scanner.nextLine();
+
+//     Th2Student student = new Th2Student(studentId, studentName,sex);
+//     System.out.println("Your Student \n"+ student.display());
+// }
+
+/* Calculator */
 public static void main(String[] args) {
-    Scanner scanner = new Scanner(System.in);
+    Scanner sc = new Scanner(System.in);
+    int number1= Integer.parseInt(sc.nextLine());
+    int number2= Integer.parseInt(sc.nextLine());
 
-    System.out.print("Enter the studentId:");
-    String studentId = scanner.nextLine();
+    Th4Calculator calculator = new Th4Calculator(number1, number2);
+    System.out.println("Sum: "+ calculator.sum());
+    System.out.println("Minus: "+ calculator.minus());
+    System.out.println("Multiply: "+ calculator.multiply());
+    System.out.println("Divide: "+ calculator.divide());
 
-    System.out.print("Enter the studentName:");
-    String studentName = scanner.nextLine();
-
-    System.out.print("Enter the studentSex:");
-    String sex = scanner.nextLine();
-
-    Th2Student student = new Th2Student(studentId, studentName,sex);
-    System.out.println("Your Student \n"+ student.display());
 }
 }

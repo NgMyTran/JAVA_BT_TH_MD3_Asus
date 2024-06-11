@@ -15,8 +15,8 @@ public double getArea() {
 public double getPerimeter() {
     return (this.width + this.height) * 2;
 }
-
-public String display() {
+@Override
+public String toString() {
     return "Rectangle{" + "width=" + width + ", height=" + height + "}";
 }
 }
