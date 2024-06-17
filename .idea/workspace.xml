@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3bfbf963-bfc3-4f7a-b884-c08de653c34c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bt_MD3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT4/MainBT4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT4/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT4/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session8/BT1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session8/BT1/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session8/BT1/MainBT1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session8/BT2/MainBT2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session8/BT2/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session8/BT2/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session8/BT5/MainBT5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session8/BT5/StaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session8/TH1/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session8/TH1/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session8/TH1/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session8/TH1/MainAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session8/TH2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session8/TH2/MainTH2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session8/TH2/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session8/TH2/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session8/TH4/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session8/TH4/MainTH4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session8/TH4/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session8/TH4/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session8/TH5/rikkei/academy/MainTH5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session8/TH5/rikkei/academy/StaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session8/TH6/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session8/TH6/MainTH6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session8/TH7/rikkei/academy/MainTH7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session8/TH7/rikkei/academy/Student.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2hrV2VKQ1HyWCaY5F4dAWqrbkKy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MainAnimal.executor": "Run",
+    "Application.MainBT1.executor": "Run",
+    "Application.MainBT4.executor": "Run",
+    "Application.MainBT5.executor": "Run",
+    "Application.MainTH2.executor": "Run",
+    "Application.MainTH4.executor": "Run",
+    "Application.MainTH5.executor": "Run",
+    "Application.MainTH6.executor": "Run",
+    "Application.MainTH7.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/TRAN/INTELLIJ/Intel-MD3/Bt_MD3/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="MainTH4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Session8.TH4.MainTH4" />
+      <module name="Bt_MD3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Session8.TH4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainTH4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bfbf963-bfc3-4f7a-b884-c08de653c34c" name="Changes" comment="" />
+      <created>1718351978845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718351978845</updated>
+      <workItem from="1718351979958" duration="4270000" />
+      <workItem from="1718360548129" duration="1957000" />
+      <workItem from="1718438239869" duration="3739000" />
+      <workItem from="1718442025367" duration="6601000" />
+      <workItem from="1718451483866" duration="2943000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
