@@ -1,4 +1,4 @@
-package BT4;
+package Session8.BT4;
 
 // Lớp cơ sở Shape
 public class Shape {

@@ -5,42 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3bfbf963-bfc3-4f7a-b884-c08de653c34c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bt_MD3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT4/MainBT4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT4/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT4/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session8/BT1/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session8/BT1/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session8/BT1/MainBT1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session8/BT2/MainBT2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session8/BT2/Point2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session8/BT2/Point3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session8/BT5/MainBT5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session8/BT5/StaticMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session8/TH1/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session8/TH1/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session8/TH1/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session8/TH1/MainAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session8/TH2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session8/TH2/MainTH2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session8/TH2/Motorcycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session8/TH2/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session8/TH4/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session8/TH4/MainTH4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session8/TH4/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session8/TH4/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session8/TH5/rikkei/academy/MainTH5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session8/TH5/rikkei/academy/StaticMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session8/TH6/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session8/TH6/MainTH6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session8/TH7/rikkei/academy/MainTH7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session8/TH7/rikkei/academy/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileZIP/Session6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileZIP/Session6.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileZIP/Session6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileZIP/Session6/.idea/Session6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileZIP/Session6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileZIP/Session6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileZIP/Session6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session6/BT1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session6/BT2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session6/BT3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session6/BT5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session9/BT1/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/CircleComparatorTH2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/ColorableBT2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/ComparableCircleTH1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/MainTH1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/ResizableBT1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/SquareBT1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session9/TH3/MainTH4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session9/TH3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session9/TH3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session9/TH3/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileZIP/Session6/Exercise1/Exercise1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FileZIP/Session6/Exercise1/Exercise1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileZIP/Session6/Exercise2/Exercise2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FileZIP/Session6/Exercise2/Exercise2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileZIP/Session6/Exercise3/Exercise3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FileZIP/Session6/Exercise3/Exercise3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileZIP/Session6/Exercise4/Exercise4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FileZIP/Session6/Exercise4/Exercise4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileZIP/Session6/Exercise5/Exercise5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FileZIP/Session6/Exercise5/Exercise5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileZIP/Session6/Exercise6/Exercise6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FileZIP/Session6/Exercise6/Exercise6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileZIP/Session6/Exercise7/Exercise7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FileZIP/Session6/Exercise7/Exercise7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileZIP/Session6/Exercise8/Exercise8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FileZIP/Session6/Exercise8/Exercise8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileZIP/Session6/Exercise9/Exercise9.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FileZIP/Session6/Exercise9/Exercise9.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BT4/MainBT4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session8/BT4/MainBT4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BT4/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session8/BT4/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BT4/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session8/BT4/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +53,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaFXApplication" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -68,19 +73,25 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BT1.executor": "Run",
+    "Application.BT2.executor": "Run",
+    "Application.BT4.executor": "Run",
     "Application.MainAnimal.executor": "Run",
     "Application.MainBT1.executor": "Run",
     "Application.MainBT4.executor": "Run",
     "Application.MainBT5.executor": "Run",
+    "Application.MainTH1.executor": "Run",
     "Application.MainTH2.executor": "Run",
     "Application.MainTH4.executor": "Run",
     "Application.MainTH5.executor": "Run",
     "Application.MainTH6.executor": "Run",
     "Application.MainTH7.executor": "Run",
+    "Application.Session9.TH3.MainTH4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/TRAN/INTELLIJ/Intel-MD3/Bt_MD3/FileZIP/Session6",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -90,7 +101,25 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Session9.TH1_TH2_BT1234" />
+    </key>
+  </component>
   <component name="RunManager">
+    <configuration name="MainTH1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Session9.TH1_TH2_BT1234.MainTH1" />
+      <module name="Bt_MD3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Session9.TH1_TH2_BT1234.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainTH4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Session8.TH4.MainTH4" />
       <module name="Bt_MD3" />
@@ -107,6 +136,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.MainTH4" />
+        <item itemvalue="Application.MainTH1" />
       </list>
     </recent_temporary>
   </component>
@@ -131,10 +161,24 @@
       <workItem from="1718438239869" duration="3739000" />
       <workItem from="1718442025367" duration="6601000" />
       <workItem from="1718451483866" duration="2943000" />
+      <workItem from="1718586885157" duration="19538000" />
+      <workItem from="1718614538778" duration="7808000" />
+      <workItem from="1718634921661" duration="9682000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/MainTH1.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

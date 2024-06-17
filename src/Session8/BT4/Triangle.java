@@ -1,4 +1,4 @@
-package BT4;
+package Session8.BT4;
 
 public class Triangle extends Shape {
     // Thuộc tính
