@@ -22,8 +22,8 @@ public class SquareBT1 extends Rectangle implements ResizableBT1,ColorableBT2 {
     public void setHeight(double height) {super.setHeight(height);}
 
     public void resize(double percent) {
-        double factor = percent / 100.0;
-        double newSize= getSide()*(1.0+factor);
+//        double factor = percent / 100.0;
+        double newSize= getSide()*(1.0+percent / 100.0);
         setSide(newSize);
     }
 

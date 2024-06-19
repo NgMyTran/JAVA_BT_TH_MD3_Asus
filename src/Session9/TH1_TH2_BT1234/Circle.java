@@ -19,8 +19,8 @@ public class Circle extends Shape implements ResizableBT1 {
 
     @Override
     public void resize(double percent) {
-        double factor = percent / 100.0;
-        this.radius *= (1.0 + factor);
+//        double factor = percent / 100.0;
+        this.radius *= (1.0 + percent / 100.0);
     }
 
     @Override

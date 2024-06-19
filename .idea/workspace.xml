@@ -5,33 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3bfbf963-bfc3-4f7a-b884-c08de653c34c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/FileZIP/Session6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileZIP/Session6.zip" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/FileZIP/Session6/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/FileZIP/Session6/.idea/Session6.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/FileZIP/Session6/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/FileZIP/Session6/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/FileZIP/Session6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session6/BT1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session6/BT2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session6/BT3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session6/BT5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session9/BT1/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/CircleComparatorTH2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/ColorableBT2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/ComparableCircleTH1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/MainTH1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/ResizableBT1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/SquareBT1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session9/TH3/MainTH4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session9/TH3/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session9/TH3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session9/TH3/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session10/ra/BT1/StudentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session10/ra/BT3/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session10/ra/BT3/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session10/ra/BT3/Library.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileZIP/Session6" beforeDir="false" afterPath="$PROJECT_DIR$/FileZIP/Session6" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FileZIP/Session6/Exercise1/Exercise1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FileZIP/Session6/Exercise1/Exercise1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FileZIP/Session6/Exercise2/Exercise2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FileZIP/Session6/Exercise2/Exercise2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FileZIP/Session6/Exercise3/Exercise3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FileZIP/Session6/Exercise3/Exercise3.iml" afterDir="false" />
@@ -41,9 +25,11 @@
       <change beforePath="$PROJECT_DIR$/FileZIP/Session6/Exercise7/Exercise7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FileZIP/Session6/Exercise7/Exercise7.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FileZIP/Session6/Exercise8/Exercise8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FileZIP/Session6/Exercise8/Exercise8.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FileZIP/Session6/Exercise9/Exercise9.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FileZIP/Session6/Exercise9/Exercise9.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BT4/MainBT4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session8/BT4/MainBT4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BT4/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session8/BT4/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BT4/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session8/BT4/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session9/BT1/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/MainTH1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/MainTH1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/SquareBT1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/SquareBT1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +40,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaFXApplication" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -76,6 +65,7 @@
     "Application.BT1.executor": "Run",
     "Application.BT2.executor": "Run",
     "Application.BT4.executor": "Run",
+    "Application.Library.executor": "Run",
     "Application.MainAnimal.executor": "Run",
     "Application.MainBT1.executor": "Run",
     "Application.MainBT4.executor": "Run",
@@ -87,6 +77,7 @@
     "Application.MainTH6.executor": "Run",
     "Application.MainTH7.executor": "Run",
     "Application.Session9.TH3.MainTH4.executor": "Run",
+    "Application.StudentManager.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -135,8 +126,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainTH4" />
         <item itemvalue="Application.MainTH1" />
+        <item itemvalue="Application.MainTH4" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +154,8 @@
       <workItem from="1718451483866" duration="2943000" />
       <workItem from="1718586885157" duration="19538000" />
       <workItem from="1718614538778" duration="7808000" />
-      <workItem from="1718634921661" duration="9682000" />
+      <workItem from="1718634921661" duration="10333000" />
+      <workItem from="1718675203740" duration="34459000" />
     </task>
     <servers />
   </component>

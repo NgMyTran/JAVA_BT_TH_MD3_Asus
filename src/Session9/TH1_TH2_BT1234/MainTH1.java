@@ -84,7 +84,6 @@ public class MainTH1 {
             System.out.println("Area: " + ((Shape)s).getArea());
 
             s.resize(resizePercent);
-
             System.out.println("After resizing with " + resizePercent + "%:");
             System.out.println("Area: " + ((Shape) s).getArea());
 //            System.out.println(s.getClass().getSimpleName() + " Area: " + ((Shape) s).getArea());
@@ -96,6 +95,7 @@ public class MainTH1 {
         shapes1[1] = new Rectangle(3.0, 4.0);
 //        shapes[2] = new SquareBT1(5.0);
         shapes1[2] = new SquareBT1(4.0, "blue", true);
+
         for(Shape s:shapes1){
             System.out.println("Area: " + s.getArea());
 //            System.out.println(s.getClass().getSimpleName() + " Area: " + s.getArea());

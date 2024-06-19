@@ -34,6 +34,10 @@ public class Rectangle extends Shape implements ResizableBT1 {
     public double getArea() {
         return width * height;
     }
+//    public double getPerimeter(double width, double height) {
+//        double p = (a+b+c)/2;
+//        return Math.sqrt(p*(p-a)*(p-height)*(p-height));
+//    }
 
     @Override
     public void resize(double percent) {
