@@ -10,11 +10,30 @@
       <change afterPath="$PROJECT_DIR$/FileZIP/Session6/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/FileZIP/Session6/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/FileZIP/Session6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session10/ra/BT1/StudentManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session10/ra/BT3/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session10/ra/BT3/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session10/ra/BT3/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session10/ra/BT2/TennisGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session10/ra/BT2/TennisGameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session10/ra/BT3/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session10/ra/BT3/model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session10/ra/BT3/not_use_arrayList/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session10/ra/BT3/not_use_arrayList/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session10/ra/BT3/run/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session10/ra/BT3/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session10/ra/BT3/service/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session11/MyCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session11/bt1/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session11/bt2/Bt2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session11/bt4/Bt4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session11/bt5/DeleteEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session11/bt6/DeleteRepeatNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session11/bt9/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session11/bt9/StudentMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session11/bt9/StudentManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session11/th1/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session11/th1/MyListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session11/th2/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session11/th2/MyLinkedListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bt_MD3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Bt_MD3.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FileZIP/Session6" beforeDir="false" afterPath="$PROJECT_DIR$/FileZIP/Session6" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FileZIP/Session6/Exercise1/Exercise1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FileZIP/Session6/Exercise1/Exercise1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FileZIP/Session6/Exercise2/Exercise2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FileZIP/Session6/Exercise2/Exercise2.iml" afterDir="false" />
@@ -25,11 +44,9 @@
       <change beforePath="$PROJECT_DIR$/FileZIP/Session6/Exercise7/Exercise7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FileZIP/Session6/Exercise7/Exercise7.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FileZIP/Session6/Exercise8/Exercise8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FileZIP/Session6/Exercise8/Exercise8.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FileZIP/Session6/Exercise9/Exercise9.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FileZIP/Session6/Exercise9/Exercise9.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Session9/BT1/Shape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/MainTH1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/MainTH1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/SquareBT1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/SquareBT1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session10/ra/BT3/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session10/ra/BT3/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session10/ra/BT3/Library.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +57,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaFXApplication" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -65,6 +82,10 @@
     "Application.BT1.executor": "Run",
     "Application.BT2.executor": "Run",
     "Application.BT4.executor": "Run",
+    "Application.Bt2.executor": "Run",
+    "Application.Bt4.executor": "Run",
+    "Application.DeleteEven.executor": "Run",
+    "Application.DeleteRepeatNum.executor": "Run",
     "Application.Library.executor": "Run",
     "Application.MainAnimal.executor": "Run",
     "Application.MainBT1.executor": "Run",
@@ -76,13 +97,22 @@
     "Application.MainTH5.executor": "Run",
     "Application.MainTH6.executor": "Run",
     "Application.MainTH7.executor": "Run",
+    "Application.MyCollection.executor": "Run",
+    "Application.MyLinkedListTest.executor": "Run",
+    "Application.MyList.executor": "Run",
+    "Application.MyListTest.executor": "Run",
     "Application.Session9.TH3.MainTH4.executor": "Run",
+    "Application.StudentMain.executor": "Run",
     "Application.StudentManager.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/TRAN/INTELLIJ/Intel-MD3/Bt_MD3/FileZIP/Session6",
+    "last_opened_file_path": "C:/Users/TRAN/INTELLIJ/Intel-MD3/Bt_MD3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -95,6 +125,13 @@
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Session9.TH1_TH2_BT1234" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\TRAN\INTELLIJ\Intel-MD3\Bt_MD3\src\Session10\ra\BT3\not_use_arrayList" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="src" />
+      <recent name="session11" />
     </key>
   </component>
   <component name="RunManager">
@@ -156,6 +193,8 @@
       <workItem from="1718614538778" duration="7808000" />
       <workItem from="1718634921661" duration="10333000" />
       <workItem from="1718675203740" duration="34459000" />
+      <workItem from="1718771643417" duration="15247000" />
+      <workItem from="1718846509007" duration="29261000" />
     </task>
     <servers />
   </component>
@@ -169,6 +208,15 @@
           <url>file://$PROJECT_DIR$/src/Session9/TH1_TH2_BT1234/MainTH1.java</url>
           <line>32</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/session11/th1/MyList.java</url>
+          <line>13</line>
+          <properties class="session11.th1.MyList" method="ensureCapa">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
