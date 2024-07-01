@@ -1,7 +1,7 @@
-package Session10.ra.BT3.service;
+package Session10.ra.bt3VIP.service;
 
-import Session10.ra.BT3.model.Book;
-import Session10.ra.BT3.model.Category;
+import Session10.ra.bt3VIP.model.Book;
+import Session10.ra.bt3VIP.model.Category;
 
 import java.util.ArrayList;
 import java.util.List;

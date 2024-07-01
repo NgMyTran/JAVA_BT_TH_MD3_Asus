@@ -1,4 +1,4 @@
-package Session10.ra.BT3.model;
+package Session10.ra.bt3VIP.model;
 
 public class Book {
     private String id;

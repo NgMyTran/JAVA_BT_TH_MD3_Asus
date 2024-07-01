@@ -1,10 +1,8 @@
-package Session10.ra.BT3.run;
+package Session10.ra.bt3VIP.run;
 
-import Session10.ra.BT3.model.Category;
-import Session10.ra.BT3.service.BookService;
-import Session10.ra.BT3.service.CategoryService;
+import Session10.ra.bt3VIP.service.BookService;
+import Session10.ra.bt3VIP.service.CategoryService;
 
-import java.util.List;
 import java.util.Scanner;
 
 public class Library {

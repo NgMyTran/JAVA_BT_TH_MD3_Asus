@@ -1,14 +1,12 @@
 package session13;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Scanner;
+import java.util.*;
 
 public class Bt1 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
 //        Object[] arr={1, "Hello", 2.5, 'a', "Hello", 1, 'a', 2.5};
+
+        Scanner sc = new Scanner(System.in);
         Map<Object, Integer> countMap= new HashMap<Object, Integer>();
         ArrayList<Object> arr = new ArrayList<>();
         System.out.println("Enter elements (type 'done' to finish):");
@@ -31,7 +29,6 @@ public class Bt1 {
                 // Mặc định là chuỗi
                 element = input;
             }
-
             arr.add(element);
         }
 
@@ -40,8 +37,12 @@ public class Bt1 {
                 countMap.put(o, countMap.get(o)+1);
             }else{countMap.put(o, 1);}
         }
-        for(Map.Entry<Object, Integer> entry:countMap.entrySet()){
-            System.out.println(entry.getKey() + "\" xuất hiện " + entry.getValue() + " lần.");
+//        for(Map.Entry<Object, Integer> entry:countMap.entrySet()){
+//            System.out.println(entry.getKey() + "\" xuất hiện " + entry.getValue() + " lần.");
+//        }
+        Set<Object> keySet = countMap.keySet();
+        for(Object key:keySet){
+            System.out.println(key + "\" xuất hiện " + countMap.get(key) + " lần.");
         }
     }
 }

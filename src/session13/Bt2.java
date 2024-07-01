@@ -31,12 +31,19 @@ public class Bt2 {
                 map.put(o, map.get(o)+1);
             }else{map.put(o, 1);}
         }
+
         ArrayList<Object> uniqueElements = new ArrayList<>();
-        for(Map.Entry<Object, Integer> entry:map.entrySet()){
-            if(entry.getValue() == 1){
-                uniqueElements.add(entry.getKey());
-            }
-        }
+//        for(Map.Entry<Object, Integer> entry:map.entrySet()){
+//            if(entry.getValue() == 1){
+//                uniqueElements.add(entry.getKey());
+//            }
+//        }
+//        for(Object o:map) {
+//            if (map.get(o) == 1) {
+//                uniqueElements.add(o);
+//            }
+//        }
+
         System.out.println("Các phần tử duy nhất có trong mảng và chỉ xuất hiện 1 lần:");
         for (Object obj : uniqueElements) {
             System.out.print(obj + " ");

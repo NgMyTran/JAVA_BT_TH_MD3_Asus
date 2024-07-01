@@ -1,4 +1,4 @@
-package session11.bt9;
+package session11.bt9VIP;
 
 public class Student {
     private int studentId;

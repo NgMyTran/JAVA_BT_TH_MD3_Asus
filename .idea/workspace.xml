@@ -10,27 +10,33 @@
       <change afterPath="$PROJECT_DIR$/FileZIP/Session6/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/FileZIP/Session6/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/FileZIP/Session6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session12/Bt1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session12/Bt2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session12/Bt3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session12/Bt5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session12/Bt6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session12/Bt7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session12/th1/GenericStackClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session12/th1/MyGenericStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session12/th2/LinkedListQueueClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session12/th2/MyLinkedListQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session12/th2/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session12/th3/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session12/th3/QueueClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session12/th4/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session12/th4/StackClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session13/Bt1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session13/Bt2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session13/Bt3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session13/Bt4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session13/Bt5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session13/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session14/Bt1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session14/Bt2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session14/Th2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session14/bt3VIP/MainBt3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session14/bt3VIP/bussiness/DepartmentBussiness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session14/bt3VIP/bussiness/EmployeeBussiness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session14/bt3VIP/bussiness/IDepartmentDesign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session14/bt3VIP/bussiness/IEmployeeDesign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session14/bt3VIP/bussiness/IGenericDesign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session14/bt3VIP/entity/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session14/bt3VIP/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session14/bt3VIP/entity/IManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session14/bt3VIP/util/InputMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session14/test/phuong_thuc_thuc_dinh/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session14/test/phuong_thuc_thuc_dinh/Formula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session14/test/phuong_thuc_thuc_dinh/FormulaImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session14/test/phuong_thuc_thuc_dinh/FormularTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session14/test/phuong_thuc_thuc_dinh/IColorable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session14/test/phuong_thuc_thuc_dinh/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session14/test/phuong_thuc_thuc_dinh/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session14/test/phuong_thuc_thuc_dinh/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session14/th1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session14/th1/MainTh1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session14/th1/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session14/th1/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session15/run/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session15/util.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FileZIP/Session6" beforeDir="false" afterPath="$PROJECT_DIR$/FileZIP/Session6" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FileZIP/Session6/Exercise1/Exercise1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FileZIP/Session6/Exercise1/Exercise1.iml" afterDir="false" />
@@ -42,6 +48,23 @@
       <change beforePath="$PROJECT_DIR$/FileZIP/Session6/Exercise7/Exercise7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FileZIP/Session6/Exercise7/Exercise7.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FileZIP/Session6/Exercise8/Exercise8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FileZIP/Session6/Exercise8/Exercise8.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FileZIP/Session6/Exercise9/Exercise9.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FileZIP/Session6/Exercise9/Exercise9.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session10/ra/BT3/model/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session10/ra/bt3VIP/model/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session10/ra/BT3/model/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session10/ra/bt3VIP/model/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session10/ra/BT3/not_use_arrayList/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session10/ra/bt3VIP/not_use_arrayList/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session10/ra/BT3/not_use_arrayList/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session10/ra/bt3VIP/not_use_arrayList/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session10/ra/BT3/not_use_arrayList/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session10/ra/bt3VIP/not_use_arrayList/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session10/ra/BT3/run/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session10/ra/bt3VIP/run/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session10/ra/BT3/service/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session10/ra/bt3VIP/service/BookService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session10/ra/BT3/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session10/ra/bt3VIP/service/CategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/session11/bt9/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session11/bt9VIP/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/session11/bt9/StudentMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session11/bt9VIP/StudentMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/session11/bt9/StudentManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session11/bt9VIP/StudentManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/session12/Bt7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session12/Bt7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/session13/Bt1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session13/Bt1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/session13/Bt2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session13/Bt2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/session13/Bt3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session13/Bt3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/session13/Bt4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session13/Bt4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/session13/Bt5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session13/Bt5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +75,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaFXApplication" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -86,9 +109,11 @@
     "Application.Bt7.executor": "Run",
     "Application.DeleteEven.executor": "Run",
     "Application.DeleteRepeatNum.executor": "Run",
+    "Application.FormularTest.executor": "Run",
     "Application.GenericStackClient.executor": "Run",
     "Application.Library.executor": "Run",
     "Application.LinkedListQueueClient.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.MainAnimal.executor": "Run",
     "Application.MainBT1.executor": "Run",
     "Application.MainBT4.executor": "Run",
@@ -99,6 +124,7 @@
     "Application.MainTH5.executor": "Run",
     "Application.MainTH6.executor": "Run",
     "Application.MainTH7.executor": "Run",
+    "Application.MainTh1.executor": "Run",
     "Application.MyCollection.executor": "Run",
     "Application.MyLinkedListTest.executor": "Run",
     "Application.MyList.executor": "Run",
@@ -124,6 +150,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/TRAN/INTELLIJ/Intel-MD3/Bt_MD3/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -139,7 +166,7 @@
       <recent name="session11" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MainTH1">
     <configuration name="MainTH1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Session9.TH1_TH2_BT1234.MainTH1" />
       <module name="Bt_MD3" />
@@ -202,6 +229,13 @@
       <workItem from="1718846509007" duration="30035000" />
       <workItem from="1718937413453" duration="11748000" />
       <workItem from="1719194774969" duration="23374000" />
+      <workItem from="1719242372336" duration="274000" />
+      <workItem from="1719280089723" duration="23017000" />
+      <workItem from="1719335477528" duration="1444000" />
+      <workItem from="1719366009561" duration="18566000" />
+      <workItem from="1719452065837" duration="18847000" />
+      <workItem from="1719542118740" duration="14701000" />
+      <workItem from="1719798388605" duration="397000" />
     </task>
     <servers />
   </component>

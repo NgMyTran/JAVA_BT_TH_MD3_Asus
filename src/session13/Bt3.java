@@ -11,6 +11,7 @@ public class Bt3 {
         map.put("a", 4);
 
         List<Map.Entry<String, Integer>> entryList = new ArrayList<>(map.entrySet());
+        System.out.println(entryList);
         Collections.sort(entryList, (e1, e2)->e1.getValue()- e2.getValue());
 
         System.out.println("HashMap sau khi sắp xếp theo giá trị tăng dần:");

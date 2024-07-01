@@ -9,6 +9,7 @@ public class Bt4 {
         hashMap.put("A", 1);
         hashMap.put("C", 3);
         hashMap.put("B", 2);
+
         Map<String, Integer> hashMap2 = new HashMap<>();
         hashMap2.put("D", 4);
         hashMap2.put("F", 6);
