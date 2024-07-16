@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/FileZIP/Session6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/session18/test/serialize/Practiv-Collection-Crud" vcs="Git" />
   </component>
 </project>
