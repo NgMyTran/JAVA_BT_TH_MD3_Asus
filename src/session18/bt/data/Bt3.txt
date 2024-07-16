@@ -1,0 +1,2 @@
+Đây là một bài tập luyện tập về việc sao chép file và đảo ngược các phần tử trong file.
+Chúng ta sẽ thực hành việc đọc và ghi file trong Java.

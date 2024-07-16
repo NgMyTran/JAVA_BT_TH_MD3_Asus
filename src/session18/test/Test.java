@@ -1,34 +1,32 @@
 package session18.test;
 
 import java.io.File;
-import java.io.FileReader;
-import java.io.FileWriter;
 import java.io.IOException;
 
 public class Test {
     public static void main(String[] args) {
         //Lớp File trong Java
-        //đại diện cho 1 file trong bộ nhớ (cỏ thể tồn tại or k-có trong java n k có tỏng máy)
+        //đại diện cho 1 file trong bộ nhớ (có thể tồn tại or k-có trong java n k có trong máy)
         //cung cấp tính năng làm việc vs File (ngoại trừ đọc ghi)
         //các phg thức làm việc 9h
 
-        File file= new File("C:\\Users\\TRAN\\INTELLIJ\\Intel-MD3\\Bt_MD3\\src\\data.txt");//tạo đối tg file thong qua đường dẫn
+        File file = new File("C:\\Users\\TRAN\\INTELLIJ\\Intel-MD3\\Bt_MD3\\src\\data.txt");//tạo đối tg file thong qua đường dẫn
         //check file có tồn tại k
         System.out.println("exist or not: " + file.exists());
         System.out.println("Co phai 1 thu muc k: " + file.isDirectory());
 
-        File parent= file.getParentFile();
+        File parent = file.getParentFile();
         System.out.println("parent is " + parent);
         System.out.println("lenght of file is " + file.length());
-        
+
         try {
-            boolean created= file.createNewFile();
-            if(created){
+            boolean created = file.createNewFile();
+            if (created) {
                 System.out.println("created successfully");
-            }else{
+            } else {
                 System.out.println("file already exists");
             }
-        }catch (IOException e){
+        } catch (IOException e) {
             System.out.println("Error while creating file");
         }
     }
