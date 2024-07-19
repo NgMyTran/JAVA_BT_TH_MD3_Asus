@@ -10,10 +10,18 @@
       <change afterPath="$PROJECT_DIR$/FileZIP/Session6/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/FileZIP/Session6/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/FileZIP/Session6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session18/bt/data/BT1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session18/bt/data/Bt2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session18/bt/file/MainBt1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session18/bt/file/MainBt2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session2/bt/BT4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session2/bt/Bt8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session2/ra/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session2/ra/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session3/bt/Bt1Delete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session3/bt/Bt4MaxNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session3/bt/Bt7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session3/bt/Bt8CountChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session3/bt/Bt9MaxInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session3/ra/NumberManage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session3/ra/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FileZIP/Session6" beforeDir="false" afterPath="$PROJECT_DIR$/FileZIP/Session6" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FileZIP/Session6/Exercise1/Exercise1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FileZIP/Session6/Exercise1/Exercise1.iml" afterDir="false" />
@@ -25,8 +33,7 @@
       <change beforePath="$PROJECT_DIR$/FileZIP/Session6/Exercise7/Exercise7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FileZIP/Session6/Exercise7/Exercise7.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FileZIP/Session6/Exercise8/Exercise8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FileZIP/Session6/Exercise8/Exercise8.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FileZIP/Session6/Exercise9/Exercise9.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FileZIP/Session6/Exercise9/Exercise9.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/session17/exception/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session17/exception/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/session18/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session18/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session5/run/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session5/run/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/session18/test/serialize/Practiv-Collection-Crud" beforeDir="false" afterPath="$PROJECT_DIR$/src/session18/test/serialize/Practiv-Collection-Crud" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/session18/test/serialize/Practiv-Collection-Crud/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/session18/test/serialize/Practiv-Collection-Crud/Studentmanager.iml" beforeDir="false" />
@@ -68,81 +75,83 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AuthenticationMenu.executor": "Run",
-    "Application.BT1.executor": "Run",
-    "Application.BT2.executor": "Run",
-    "Application.BT4.executor": "Run",
-    "Application.Bt1.executor": "Run",
-    "Application.Bt2.executor": "Run",
-    "Application.Bt3.executor": "Run",
-    "Application.Bt4.executor": "Run",
-    "Application.Bt5.executor": "Run",
-    "Application.Bt6.executor": "Run",
-    "Application.Bt7.executor": "Run",
-    "Application.Bt9.executor": "Run",
-    "Application.DeleteEven.executor": "Run",
-    "Application.DeleteRepeatNum.executor": "Run",
-    "Application.FormularTest.executor": "Run",
-    "Application.GenericStackClient.executor": "Run",
-    "Application.Library.executor": "Run",
-    "Application.LinkedListQueueClient.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MainAnimal.executor": "Run",
-    "Application.MainBT1.executor": "Run",
-    "Application.MainBT4.executor": "Run",
-    "Application.MainBT5.executor": "Run",
-    "Application.MainBt1.executor": "Run",
-    "Application.MainBt2.executor": "Run",
-    "Application.MainTH1.executor": "Run",
-    "Application.MainTH2.executor": "Run",
-    "Application.MainTH4.executor": "Run",
-    "Application.MainTH5.executor": "Run",
-    "Application.MainTH6.executor": "Run",
-    "Application.MainTH7.executor": "Run",
-    "Application.MainTest.executor": "Debug",
-    "Application.MainTh1.executor": "Run",
-    "Application.MyCollection.executor": "Run",
-    "Application.MyLinkedListTest.executor": "Run",
-    "Application.MyList.executor": "Run",
-    "Application.MyListTest.executor": "Run",
-    "Application.QueueClient.executor": "Run",
-    "Application.Session9.TH3.MainTH4.executor": "Run",
-    "Application.Sorting.executor": "Run",
-    "Application.StackClient.executor": "Run",
-    "Application.StudentMain.executor": "Run",
-    "Application.StudentManagement.executor": "Run",
-    "Application.StudentManager.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/TRAN/INTELLIJ/Intel-MD3/Bt_MD3",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/TRAN/INTELLIJ/Intel-MD3/Bt_MD3/src/Main.java",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AuthenticationMenu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BT1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BT2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BT4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bt1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bt2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bt3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bt4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bt5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bt6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bt7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bt9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeleteEven.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeleteRepeatNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FormularTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenericStackClient.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Library.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedListQueueClient.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainAnimal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainBT1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainBT4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainBT5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainBt1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainBt2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainBt3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainTH1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainTH2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainTH4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainTH5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainTH6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainTH7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainTest.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MainTh1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyCollection.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyLinkedListTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyListTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QueueClient.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Session9.TH3.MainTH4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sorting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StackClient.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentManagement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentManager.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/TRAN/INTELLIJ/Intel-MD3/Bt_MD3&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/TRAN/INTELLIJ/Intel-MD3/Bt_MD3/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="session16" />
       <recent name="Session9.TH1_TH2_BT1234" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\TRAN\INTELLIJ\Intel-MD3\Bt_MD3\src\session18\bt\data" />
       <recent name="C:\Users\TRAN\INTELLIJ\Intel-MD3\Bt_MD3\src\session18\test" />
       <recent name="C:\Users\TRAN\INTELLIJ\Intel-MD3\Bt_MD3\src\Session10\ra\BT3\not_use_arrayList" />
     </key>
@@ -151,7 +160,7 @@
       <recent name="session11" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Bt6">
     <configuration name="Bt6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="session17.bt.Bt6" />
       <module name="Bt_MD3" />
@@ -265,7 +274,10 @@
       <workItem from="1720753908889" duration="30000" />
       <workItem from="1720767809947" duration="1074000" />
       <workItem from="1720777832903" duration="90000" />
-      <workItem from="1721095915936" duration="2030000" />
+      <workItem from="1721095915936" duration="13814000" />
+      <workItem from="1721186352842" duration="10977000" />
+      <workItem from="1721267019868" duration="10988000" />
+      <workItem from="1721353634495" duration="310000" />
     </task>
     <servers />
   </component>
