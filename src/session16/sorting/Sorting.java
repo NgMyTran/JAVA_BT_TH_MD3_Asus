@@ -18,7 +18,7 @@ public class Sorting {
                     int temp = arr[j];
                     arr[j] = arr[j+1];
                     arr[j+1] = temp;
-                    isNext = true; // nếu như có sự đổi chỗ 2 phâ ử thì mảng vẫn cần được sắp xếp
+                    isNext = true; // nếu như có sự đổi chỗ 2 phâ tử thì mảng vẫn cần được sắp xếp
                 }
             }
         }
